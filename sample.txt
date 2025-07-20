@@ -1,0 +1,5 @@
+pip install -r requirements.txt
+pip install -r requirements.txt
+cp wallet.json.example wallet.json
+
+./ run.sh
